@@ -1,0 +1,4 @@
+[console_scripts]
+amr = project.test_amr:main
+gui = project.test_gui:main
+move = project.amr_control:main

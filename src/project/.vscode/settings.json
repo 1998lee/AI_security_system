@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/media/inyoung/82295a44-8f76-4fb1-8b4e-47add3f39f14/packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/media/inyoung/82295a44-8f76-4fb1-8b4e-47add3f39f14/packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

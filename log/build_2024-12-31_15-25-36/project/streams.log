@@ -1,0 +1,26 @@
+[0.584s] Invoking command in '/home/leejeongmin/wlsmd2/src/project': PYTHONPATH=/home/leejeongmin/wlsmd2/build/project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/leejeongmin/wlsmd2/install/project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/project build --build-base /home/leejeongmin/wlsmd2/build/project/build install --record /home/leejeongmin/wlsmd2/build/project/install.log --single-version-externally-managed install_data
+[0.796s] running egg_info
+[0.804s] writing ../../build/project/project.egg-info/PKG-INFO
+[0.804s] writing dependency_links to ../../build/project/project.egg-info/dependency_links.txt
+[0.804s] writing entry points to ../../build/project/project.egg-info/entry_points.txt
+[0.804s] writing requirements to ../../build/project/project.egg-info/requires.txt
+[0.804s] writing top-level names to ../../build/project/project.egg-info/top_level.txt
+[0.820s] reading manifest file '../../build/project/project.egg-info/SOURCES.txt'
+[0.820s] writing manifest file '../../build/project/project.egg-info/SOURCES.txt'
+[0.820s] running build
+[0.820s] running build_py
+[0.820s] copying project/amr_control.py -> /home/leejeongmin/wlsmd2/build/project/build/lib/project
+[0.820s] running install
+[0.823s] running install_lib
+[0.831s] copying /home/leejeongmin/wlsmd2/build/project/build/lib/project/amr_control.py -> /home/leejeongmin/wlsmd2/install/project/lib/python3.10/site-packages/project
+[0.831s] byte-compiling /home/leejeongmin/wlsmd2/install/project/lib/python3.10/site-packages/project/amr_control.py to amr_control.cpython-310.pyc
+[0.833s] running install_data
+[0.833s] running install_egg_info
+[0.841s] removing '/home/leejeongmin/wlsmd2/install/project/lib/python3.10/site-packages/project-0.0.0-py3.10.egg-info' (and everything under it)
+[0.841s] Copying ../../build/project/project.egg-info to /home/leejeongmin/wlsmd2/install/project/lib/python3.10/site-packages/project-0.0.0-py3.10.egg-info
+[0.842s] running install_scripts
+[0.874s] Installing amr script to /home/leejeongmin/wlsmd2/install/project/lib/project
+[0.874s] Installing gui script to /home/leejeongmin/wlsmd2/install/project/lib/project
+[0.874s] Installing move script to /home/leejeongmin/wlsmd2/install/project/lib/project
+[0.874s] writing list of installed files to '/home/leejeongmin/wlsmd2/build/project/install.log'
+[0.897s] Invoked command in '/home/leejeongmin/wlsmd2/src/project' returned '0': PYTHONPATH=/home/leejeongmin/wlsmd2/build/project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/leejeongmin/wlsmd2/install/project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/project build --build-base /home/leejeongmin/wlsmd2/build/project/build install --record /home/leejeongmin/wlsmd2/build/project/install.log --single-version-externally-managed install_data

@@ -1,0 +1,34 @@
+[0.774s] Invoking command in '/home/inyoung/wlsmd2/src/project': PYTHONPATH=/home/inyoung/wlsmd2/build/project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/inyoung/wlsmd2/install/project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/project build --build-base /home/inyoung/wlsmd2/build/project/build install --record /home/inyoung/wlsmd2/build/project/install.log --single-version-externally-managed install_data
+[1.048s] running egg_info
+[1.068s] writing ../../build/project/project.egg-info/PKG-INFO
+[1.068s] writing dependency_links to ../../build/project/project.egg-info/dependency_links.txt
+[1.068s] writing entry points to ../../build/project/project.egg-info/entry_points.txt
+[1.069s] writing requirements to ../../build/project/project.egg-info/requires.txt
+[1.069s] writing top-level names to ../../build/project/project.egg-info/top_level.txt
+[1.112s] reading manifest file '../../build/project/project.egg-info/SOURCES.txt'
+[1.113s] writing manifest file '../../build/project/project.egg-info/SOURCES.txt'
+[1.113s] running build
+[1.113s] running build_py
+[1.113s] copying project/amr_control.py -> /home/inyoung/wlsmd2/build/project/build/lib/project
+[1.113s] copying project/amr_move.py -> /home/inyoung/wlsmd2/build/project/build/lib/project
+[1.114s] copying project/test_amr.py -> /home/inyoung/wlsmd2/build/project/build/lib/project
+[1.114s] copying project/test.py -> /home/inyoung/wlsmd2/build/project/build/lib/project
+[1.114s] copying project/__init__.py -> /home/inyoung/wlsmd2/build/project/build/lib/project
+[1.114s] copying project/flask_gui.py -> /home/inyoung/wlsmd2/build/project/build/lib/project
+[1.114s] copying project/test_gui.py -> /home/inyoung/wlsmd2/build/project/build/lib/project
+[1.115s] running install
+[1.118s] running install_lib
+[1.138s] copying /home/inyoung/wlsmd2/build/project/build/lib/project/amr_control.py -> /home/inyoung/wlsmd2/install/project/lib/python3.10/site-packages/project
+[1.139s] byte-compiling /home/inyoung/wlsmd2/install/project/lib/python3.10/site-packages/project/amr_control.py to amr_control.cpython-310.pyc
+[1.141s] running install_data
+[1.141s] copying resource/project -> /home/inyoung/wlsmd2/install/project/share/ament_index/resource_index/packages
+[1.141s] copying package.xml -> /home/inyoung/wlsmd2/install/project/share/project
+[1.141s] running install_egg_info
+[1.162s] removing '/home/inyoung/wlsmd2/install/project/lib/python3.10/site-packages/project-0.0.0-py3.10.egg-info' (and everything under it)
+[1.162s] Copying ../../build/project/project.egg-info to /home/inyoung/wlsmd2/install/project/lib/python3.10/site-packages/project-0.0.0-py3.10.egg-info
+[1.163s] running install_scripts
+[1.320s] Installing amr script to /home/inyoung/wlsmd2/install/project/lib/project
+[1.320s] Installing gui script to /home/inyoung/wlsmd2/install/project/lib/project
+[1.320s] Installing move script to /home/inyoung/wlsmd2/install/project/lib/project
+[1.321s] writing list of installed files to '/home/inyoung/wlsmd2/build/project/install.log'
+[1.344s] Invoked command in '/home/inyoung/wlsmd2/src/project' returned '0': PYTHONPATH=/home/inyoung/wlsmd2/build/project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/inyoung/wlsmd2/install/project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/project build --build-base /home/inyoung/wlsmd2/build/project/build install --record /home/inyoung/wlsmd2/build/project/install.log --single-version-externally-managed install_data

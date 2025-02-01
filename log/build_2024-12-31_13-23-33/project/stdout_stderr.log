@@ -1,0 +1,30 @@
+running egg_info
+writing ../../build/project/project.egg-info/PKG-INFO
+writing dependency_links to ../../build/project/project.egg-info/dependency_links.txt
+writing entry points to ../../build/project/project.egg-info/entry_points.txt
+writing requirements to ../../build/project/project.egg-info/requires.txt
+writing top-level names to ../../build/project/project.egg-info/top_level.txt
+reading manifest file '../../build/project/project.egg-info/SOURCES.txt'
+writing manifest file '../../build/project/project.egg-info/SOURCES.txt'
+running build
+running build_py
+copying project/amr_control.py -> /home/inyoung/wlsmd2/build/project/build/lib/project
+copying project/amr_move.py -> /home/inyoung/wlsmd2/build/project/build/lib/project
+copying project/test_amr.py -> /home/inyoung/wlsmd2/build/project/build/lib/project
+copying project/test.py -> /home/inyoung/wlsmd2/build/project/build/lib/project
+copying project/__init__.py -> /home/inyoung/wlsmd2/build/project/build/lib/project
+copying project/flask_gui.py -> /home/inyoung/wlsmd2/build/project/build/lib/project
+copying project/test_gui.py -> /home/inyoung/wlsmd2/build/project/build/lib/project
+running install
+running install_lib
+running install_data
+copying resource/project -> /home/inyoung/wlsmd2/install/project/share/ament_index/resource_index/packages
+copying package.xml -> /home/inyoung/wlsmd2/install/project/share/project
+running install_egg_info
+removing '/home/inyoung/wlsmd2/install/project/lib/python3.10/site-packages/project-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/project/project.egg-info to /home/inyoung/wlsmd2/install/project/lib/python3.10/site-packages/project-0.0.0-py3.10.egg-info
+running install_scripts
+Installing amr script to /home/inyoung/wlsmd2/install/project/lib/project
+Installing gui script to /home/inyoung/wlsmd2/install/project/lib/project
+Installing move script to /home/inyoung/wlsmd2/install/project/lib/project
+writing list of installed files to '/home/inyoung/wlsmd2/build/project/install.log'
